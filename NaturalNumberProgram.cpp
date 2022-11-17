@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+// To check number is Natural or Not
 int main(){
     int n;
     cin>>n;
